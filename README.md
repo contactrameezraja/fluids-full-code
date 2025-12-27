@@ -15,3 +15,14 @@ To ensure accuracy and transparency:
 
 This approach preserves the full development history of the project while ensuring
 that the final analysis reflects the most accurate experimental data available.
+
+
+## Repository contents
+
+- `poiseuille_whitby_2008.ipynb`  
+  Original implementation using Whitby et al. (2008) slip-length data.
+
+- `poiseuille_whitby_2009_corrected.ipynb`  
+  Final implementation using corrected slip lengths from Whitby et al. (2009).
+  This notebook corresponds to the results presented in the report.
+
