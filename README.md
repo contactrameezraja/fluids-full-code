@@ -10,7 +10,7 @@ in **Whitby et al. (2009)**.
 
 To ensure accuracy and transparency:
 - The **original implementation using the 2008 data** is preserved for completeness. 
-- A **revised implementation using the corrected 2009 slip lengths** is also included (this is called "Appendix Full Code")
+- A **revised implementation using the corrected 2009 slip lengths** is also included.
 - All results and conclusions in the final report are based on the **corrected 2009 data**.
 
 This approach preserves the full development history of the project while ensuring
